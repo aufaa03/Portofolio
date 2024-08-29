@@ -587,6 +587,7 @@ noscript {
 
 #hello-friend {
     font-size: 3.5rem;
+    margin-top: 15rem;
     font-weight: 600;
     width: fit-content;
     display: flex;
