@@ -919,7 +919,7 @@ noscript{
     color: var(--color-white);
 }
 .dp{
-    width: 40%;
+    width: 80%;
     display: flex;
     align-items: flex-start;
     justify-content:center;
@@ -1339,6 +1339,7 @@ footer{
     /* border-top-left-radius: 50px;
     border-top-right-radius: 50px; */
     overflow: hidden;
+    margin-top: 3rem;
 }
 .footer-background{
 
