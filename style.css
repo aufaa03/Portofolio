@@ -982,7 +982,7 @@ noscript {
 .dp img,
 .dp::after,
 .dp::before {
-    width: 300px
+    width: 300px;
 }
 
 .projects-heading-article,
@@ -1022,7 +1022,7 @@ noscript {
 }
 
 .dp {
-    width: 40%;
+    width: 60%;
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -1038,7 +1038,7 @@ noscript {
 }
 
 .dp:hover::after {
-    transform: translate(20px, 20px)
+    transform: translate(20px, 120px)
 }
 
 .dp:hover::before {
@@ -1339,7 +1339,7 @@ footer {
 footer {
     width: 100%;
     height: fit-content;
-    border-top: 1px solid var(--tech-stack-box-border-color)
+    border-top: 1px solid var(--tech-stack-box-border-color);
 }
 
 .footer-background {
@@ -1393,7 +1393,7 @@ footer {
 .logos {
     height: 80px;
     width: 100%;
-    display: flex
+    display: flex;
 }
 
 .two-words article {
@@ -1445,7 +1445,7 @@ footer {
 .logos {
     gap: 30px;
     justify-content: center;
-    align-items: center
+    align-items: center;
 }
 
 .SocialHandle {
@@ -1967,7 +1967,7 @@ footer {
         font-size: 42%
     }
 
-    .dp img {
+    . img {
         width: 200px
     }
 
